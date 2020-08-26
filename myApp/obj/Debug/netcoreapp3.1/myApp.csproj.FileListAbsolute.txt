@@ -1,0 +1,12 @@
+/Users/farid/Desktop/Csharp/myApp/bin/Debug/netcoreapp3.1/myApp.deps.json
+/Users/farid/Desktop/Csharp/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.json
+/Users/farid/Desktop/Csharp/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.dev.json
+/Users/farid/Desktop/Csharp/myApp/bin/Debug/netcoreapp3.1/myApp.dll
+/Users/farid/Desktop/Csharp/myApp/bin/Debug/netcoreapp3.1/myApp.pdb
+/Users/farid/Desktop/Csharp/myApp/obj/Debug/netcoreapp3.1/myApp.csprojAssemblyReference.cache
+/Users/farid/Desktop/Csharp/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfoInputs.cache
+/Users/farid/Desktop/Csharp/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfo.cs
+/Users/farid/Desktop/Csharp/myApp/obj/Debug/netcoreapp3.1/myApp.csproj.CoreCompileInputs.cache
+/Users/farid/Desktop/Csharp/myApp/obj/Debug/netcoreapp3.1/myApp.dll
+/Users/farid/Desktop/Csharp/myApp/obj/Debug/netcoreapp3.1/myApp.pdb
+/Users/farid/Desktop/Csharp/myApp/obj/Debug/netcoreapp3.1/myApp.genruntimeconfig.cache
