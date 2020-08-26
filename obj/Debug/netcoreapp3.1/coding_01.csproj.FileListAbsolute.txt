@@ -1,4 +1,0 @@
-/Users/farid/Desktop/Csharp/obj/Debug/netcoreapp3.1/coding_01.csprojAssemblyReference.cache
-/Users/farid/Desktop/Csharp/obj/Debug/netcoreapp3.1/coding_01.AssemblyInfoInputs.cache
-/Users/farid/Desktop/Csharp/obj/Debug/netcoreapp3.1/coding_01.AssemblyInfo.cs
-/Users/farid/Desktop/Csharp/obj/Debug/netcoreapp3.1/coding_01.csproj.CoreCompileInputs.cache
