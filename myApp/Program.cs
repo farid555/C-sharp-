@@ -12,11 +12,11 @@ namespace myApp
             if (user_input % 2 == 0)
 
             {
-                Console.WriteLine("Even number.");
+                Console.WriteLine("Even Number.");
             } 
              else 
             {
-                Console.WriteLine("Odd number.");
+                Console.WriteLine("Odd Number.");
        }
         }
     }
