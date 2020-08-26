@@ -6,27 +6,23 @@ namespace myApp_02
     {
         static void Main(string[] args)
         {
-            int count = 0;
-            Console.WriteLine("Input the Number");
+            int a = 0;
+            Console.WriteLine("Enter the number:");
             int user_input = Convert.ToInt32(Console.ReadLine());
 
-            for(int i = 2; i <= user_input; i++)
-            {
-                if (user_input % i == 0)
-                {
-                  count++;
-                  
-                }
-                if (count == 2)
-                {
-                    Console.WriteLine("This is a prime number");
-                }
-                else
-                {
-                    Console.WriteLine("This is not");
-                }
-                
+          
+         for (int i = 1; i <= user_input; i++) 
+         {
+            if (user_input % i == 0) {
+               a++;
             }
-        }
-    }
+         }
+         if (a == 2) {
+            Console.WriteLine("{0} is a Prime Number", user_input);
+         } else {
+            Console.WriteLine("Not a Prime Number");
+         }
+         //Console.ReadLine();
+      }
+   }
 }
