@@ -1,41 +1,4 @@
 
- 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@farid555 
-farid555
-/
-Homework
- Unwatch 
-1
- Star 0
- Fork
-0
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
- master 
-Homework/.gitignore
-Go to file
-
-@HeikkiHei
-HeikkiHei Update gitignore
-Latest commit efabeaa on 4 Feb
- History
- 1 contributor
-240 lines (191 sloc)  3.55 KB
-RawBlame
-    
-
 
 
 ## Ignore sandbox so you can fiddle what ever you want from now on.
@@ -275,15 +238,3 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
