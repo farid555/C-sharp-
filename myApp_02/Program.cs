@@ -18,9 +18,9 @@ namespace myApp_02
             }
          }
          if (a == 2) {
-            Console.WriteLine("{0} is a Prime Number", user_input);
+            Console.WriteLine("{0} is a Prime Number.", user_input);
          } else {
-            Console.WriteLine("Not a Prime Number");
+            Console.WriteLine("Not a Prime Number.");
          }
          //Console.ReadLine();
       }
