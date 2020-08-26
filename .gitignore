@@ -1,5 +1,7 @@
 
 
+*.bin
+*.obj
 
 ## Ignore sandbox so you can fiddle what ever you want from now on.
 sandbox/
