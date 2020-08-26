@@ -6,7 +6,7 @@ namespace myApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("write the number here:");
+            Console.WriteLine("Write the number here:");
             int user_input = Convert.ToInt32(Console.ReadLine());
             
             if (user_input % 2 == 0)
